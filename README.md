@@ -3,17 +3,23 @@
 ## Me chamo Hiago Ferreira da Rocha
 Atualmente sou um Estudante de Tecnologia em Sistemas para Internet pelo IFRS(Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul) - Campus Porto Alegre
 
-## Possuo Conhecimento em seguintes linguagens:
+## Possuo Conhecimento em seguintes linguagens e ferramentas:
 -> HTML
 -> CSS
 -> JavaScript
 -> PHP
-->SQL
+-> SQL
+-> Docker
+-> GIT
 
 ## Algumas Stacks que eu utilizo
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></img>
+
+
 
 
 ## Linguagens utilizadas
